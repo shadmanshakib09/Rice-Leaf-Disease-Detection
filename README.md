@@ -20,4 +20,5 @@ includes code for applying and fine-tuning ViT for the specific task of rice lea
 Author:
 Md. Shadman Shakib
 Lecturer, Dept. of EEE, Metropolitan University, Sylhet, Bangladesh
+<br>
 LinkedIN: https://www.linkedin.com/in/md-shadman-shakib/
