@@ -20,5 +20,7 @@ the pre-trained InceptionV3 model is customized for accurate rice leaf diseases 
 The Vision Transformer (ViT), based on transformer architecture, has exhibited success in image classification. This repository 
 includes code for applying and fine-tuning ViT for the specific task of rice leaf diseases detection.
 
-License
-This project is licensed under the License of Md. Shadman Shakib. You are welcome to use the code for your projects and contribute to its development.
+Author:
+Md. Shadman Shakib
+Lecturer, Dept. of EEE, Metropolitan University, Sylhet, Bangladesh
+LinkedIN: https://www.linkedin.com/in/md-shadman-shakib/
